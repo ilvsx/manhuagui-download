@@ -1,0 +1,25 @@
+{
+  "name": "manhuagui-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lzs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.8",
+    "@types/fs-extra": "^5.0.4",
+    "@types/p-queue": "^2.3.1",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "fs-extra": "^7.0.0",
+    "p-queue": "^2.4.2"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
+}
